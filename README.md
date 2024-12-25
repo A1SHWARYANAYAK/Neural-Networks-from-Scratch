@@ -33,4 +33,4 @@ This project is ideal for anyone learning about neural networks and wanting to g
 
 **Contributor:**
 [AISHWARYA NAYAK](https://github.com/A1SHWARYANAYAK)
-Contributions are welcome! Feel free to open issues or submit pull requests.
+(Contributions are welcome! Feel free to open issues or submit pull requests.)
